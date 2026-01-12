@@ -30,14 +30,7 @@
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit learn,django,fastapi,git" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,django,fastapi,git" />
 </p>
 
-
----
-
-## 📊 GitHub Stats (optional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=justShox&show_icons=true&theme=dark" />
-</p>
 
